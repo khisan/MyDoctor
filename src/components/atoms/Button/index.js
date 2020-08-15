@@ -19,9 +19,10 @@ const styles = StyleSheet.create({
   }),
 
   text: (type) => ({
-    fontSize: 16,
+    fontSize: 18,
     textAlign: 'center',
     color: type === 'secondary' ? 'black' : 'white',
     fontWeight: '600',
+    fontFamily: 'Nunito-SemiBold',
   }),
 });
