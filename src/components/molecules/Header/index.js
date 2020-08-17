@@ -32,4 +32,4 @@ const styles = StyleSheet.create({
     color: colors.text.primary,
   },
 });
-test commit cuk
+woi kok gak iso 
