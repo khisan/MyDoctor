@@ -32,3 +32,4 @@ const styles = StyleSheet.create({
     color: colors.text.primary,
   },
 });
+test commit cuk
