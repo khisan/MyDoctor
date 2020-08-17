@@ -32,4 +32,3 @@ const styles = StyleSheet.create({
     color: colors.text.primary,
   },
 });
-woi kok gak iso cok bajingan tengik woi
