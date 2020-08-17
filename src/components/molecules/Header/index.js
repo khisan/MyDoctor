@@ -32,4 +32,4 @@ const styles = StyleSheet.create({
     color: colors.text.primary,
   },
 });
-woi kok gak iso 
+woi kok gak iso cok
