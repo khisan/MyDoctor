@@ -12,6 +12,10 @@ import IconStar from './ic-star.svg';
 import IconNext from './ic-next.svg';
 import IconSendDark from './ic-send-dark.svg';
 import IconSendLight from './ic-send-light.svg';
+import IconEditProfile from './ic-edit-profile';
+import IconLanguage from './ic-language.svg';
+import IconRate from './ic-rate.svg';
+import IconHelp from './ic-help';
 
 export {
   IconBackDark,
@@ -28,4 +32,8 @@ export {
   IconNext,
   IconSendDark,
   IconSendLight,
+  IconEditProfile,
+  IconLanguage,
+  IconRate,
+  IconHelp,
 };
